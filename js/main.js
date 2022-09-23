@@ -19,4 +19,4 @@ function zad(num1, num2) {
     }
 }
 
-console.log(zad(10, 11));
+zad(10, 11);
